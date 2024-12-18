@@ -1,33 +1,42 @@
-# Ciao, sono Santi! 👋
+# Hi, I'm Santi! 👋
 
-🎓 **Studente di Informatica**  
-📍 Attualmente al **terzo anno della laurea triennale** in Informatica, con un focus su **Intelligenza Artificiale** e **Robotica**.
-
----
-
-### Chi sono?  
-🎓Sono uno studente appassionato di tecnologia e innovazione, con particolare interesse per l'**Intelligenza Artificiale (AI)** e le sue applicazioni principali: **Natural Language Processing (NLP)**, **Machine Learning (ML)**. 
-💡 Affronto con entusiasmo problemi complessi, progettando soluzioni pratiche e, quando possibile, innovative.
-
-🌱 **Questo semestre sto studiando:**  
-- **Internet of Things (IoT)**: Progettazione e sviluppo di sistemi interconnessi e sensori.  
-- **Intelligenza Artificiale (AI)**: Machine learning, reti neurali e algoritmi di ottimizzazione.  
-- **Natural Language Processing (NLP)**: Comprensione ed elaborazione del linguaggio naturale.  
-
-🔍 Sempre curioso di approfondire nuove tecnologie e scoprire come applicarle a problemi reali.
+🎓 **Computer Science Student**  
+📍 Currently in the **third year of my bachelor's degree** in Computer Science, specializing in **Artificial Intelligence** and **Robotics**.
 
 ---
 
-### Progetti principali 🚀
-Ecco alcuni dei miei progetti recenti che mettono in mostra ciò che ho imparato:
-- **[FlyNow ✈️](#)**: FlyNow is an innovative software powered by OpenAI's cutting-edge AI technology.
-Designed for those who are tired of wasting time finding the cheapest flights between various destinations, FlyNow has you covered! [Dai un occhiata](https://github.com/Erewhon-proj/Hackatania-FlyNow)
-- **[Progetto NLP](#)**: Sviluppo di un sistema basato su API OpenAI per interrogare un database MySQL generico. Il progetto consente agli utenti di inserire richieste in linguaggio naturale, che vengono elaborate da un modello GPT per generare automaticamente le query SQL appropriate. I risultati del database vengono successivamente rielaborati e forniti in una forma comprensibile e strutturata dall'LLM.
-- **[Recipe Radar](#)**: Bot telegram che cerca ricette in un Database in base agli ingredienti che si possiedono.
+### About Me  
+🎓 I'm a student passionate about technology and innovation, with a strong interest in **Artificial Intelligence (AI)** and its main applications: **Natural Language Processing (NLP)** and **Machine Learning (ML)**.  
+💡 I approach complex problems with enthusiasm, designing practical and, when possible, innovative solutions.
+
+🌱 **This semester, I am studying:**  
+- **Internet of Things (IoT)**: Design and development of interconnected systems and sensors.  
+- **Artificial Intelligence (AI)**: Machine learning, neural networks, and optimization algorithms.  
+- **Natural Language Processing (NLP)**: Understanding and processing natural language.  
+
+🔍 Always eager to explore new technologies and discover how to apply them to real-world challenges.
 
 ---
 
-### 🔗 Contatti  
-📫 **Email**: [tuo-email@example.com](mailto:tuo-email@example.com)  
-🔗 **LinkedIn**: [linkedin.com/in/tuo-username](https://linkedin.com/in/tuo-username)  
-🌐 **Portfolio**: [tuo-portfolio.com](https://tuo-portfolio.com)
+### Key Projects 🚀  
+Here are some of my recent projects showcasing what I’ve learned:  
+- **[FlyNow ✈️](https://github.com/Erewhon-proj/Hackatania-FlyNow)**:  
+  FlyNow is innovative software powered by OpenAI's cutting-edge AI technology.  
+  Designed for travelers tired of wasting time searching for the cheapest flights across multiple destinations, FlyNow streamlines the process and has you covered!  
+
+- **[NLP Project](#)**:  
+  Developed a system using OpenAI APIs to interact with a generic MySQL database. The project allows users to input requests in natural language, which are processed by a GPT model to automatically generate the appropriate SQL queries. The database results are then restructured and presented in a comprehensible format by the LLM.  
+
+- **[Recipe Radar](#)**:  
+  A Telegram bot that searches for recipes in a database based on the ingredients you have available.
+
+---
+
+### 🔗 Contacts  
+📫 **Email**: [lisi.santi03@gmail.com](mailto:lisi.santi03@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/santi-lisi](https://www.linkedin.com/in/santi-lisi-956455252)  
+🌐 **Portfolio**: [To Be Completed](#)
+
+---
+
+💡 Always excited to take on new challenges in the fields of **AI**!
