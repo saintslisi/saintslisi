@@ -6,8 +6,8 @@
 ---
 
 ### Chi sono?  
-🎓Sono uno studente appassionato di tecnologia e innovazione, con particolare interesse per l'**Intelligenza Artificiale (AI)** e le sue diramazioni:**Natural Language Processing (NLP)**, **Machine Learning (ML)**. 
-💡Mi piace affrontare problemi complessi, creando soluzioni pratiche e talvolta innovative.
+🎓Sono uno studente appassionato di tecnologia e innovazione, con particolare interesse per l'**Intelligenza Artificiale (AI)** e le sue applicazioni principali: **Natural Language Processing (NLP)**, **Machine Learning (ML)**. 
+💡 Affronto con entusiasmo problemi complessi, progettando soluzioni pratiche e, quando possibile, innovative.
 
 🌱 **Questo semestre sto studiando:**  
 - **Internet of Things (IoT)**: Progettazione e sviluppo di sistemi interconnessi e sensori.  
