@@ -20,10 +20,10 @@
 
 ### Progetti principali 🚀
 Ecco alcuni dei miei progetti recenti che mettono in mostra ciò che ho imparato:
-- **[Progetto Hackathon di Neodata](#)**: FlyNow is an innovative software powered by OpenAI's cutting-edge AI technology.
-Designed for those who are tired of wasting time finding the cheapest flights between various destinations, FlyNow has you covered![Dai un occhiata](https://github.com/Erewhon-proj/Hackatania-FlyNow)
-- **[Progetto NLP](#)**: Simulazione di un robot autonomo per la navigazione indoor, sviluppato con ROS e Gazebo.  
-- **[Progetto 3](#)**: Algoritmo di ottimizzazione basato su swarm intelligence per la gestione di un robot collettivo.
+- **[FlyNow ✈️](#)**: FlyNow is an innovative software powered by OpenAI's cutting-edge AI technology.
+Designed for those who are tired of wasting time finding the cheapest flights between various destinations, FlyNow has you covered! [Dai un occhiata](https://github.com/Erewhon-proj/Hackatania-FlyNow)
+- **[Progetto NLP](#)**: Sviluppo di un sistema basato su API OpenAI per interrogare un database MySQL generico. Il progetto consente agli utenti di inserire richieste in linguaggio naturale, che vengono elaborate da un modello GPT per generare automaticamente le query SQL appropriate. I risultati del database vengono successivamente rielaborati e forniti in una forma comprensibile e strutturata dall'LLM.
+- **[Recipe Radar](#)**: Bot telegram che cerca ricette in un Database in base agli ingredienti che si possiedono.
 
 ---
 
