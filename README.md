@@ -24,8 +24,8 @@ Here are some of my recent projects showcasing what I’ve learned:
   FlyNow is innovative software powered by OpenAI's cutting-edge AI technology.  
   Designed for travelers tired of wasting time searching for the cheapest flights across multiple destinations, FlyNow streamlines the process and has you covered!  
 
-- **[IADataQuery 📊🤖](https://github.com/saintslisi/AIDataQuery)**:  
-  Developed a system using OpenAI APIs to interact with a generic MySQL database. The project allows users to input requests in natural language, which are processed by a GPT model to automatically generate the appropriate SQL queries. The database results are then restructured and presented in a comprehensible format by the LLM.  
+- **[IADataQuery 📊](https://github.com/saintslisi/AIDataQuery)**:  
+  AIDataQuery is an innovative program powered by GPT-4, designed to streamline interaction with MySQL databases. With a simple user input, the program generates and executes MySQL queries on a generic database and returns the query results in a refined and user-friendly format.
 
 - **[Recipe Radar](#)**:  
   A Telegram bot that searches for recipes in a database based on the ingredients you have available.
