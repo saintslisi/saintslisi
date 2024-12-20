@@ -18,7 +18,7 @@
 
 ---
 
-### Key Projects 🚀  
+### Main Projects 🚀  
 Here are some of my recent projects showcasing what I’ve learned:  
 - **[FlyNow ✈️](https://github.com/Erewhon-proj/Hackatania-FlyNow)**:  
   FlyNow is innovative software powered by OpenAI's cutting-edge AI technology.  
@@ -29,6 +29,35 @@ Here are some of my recent projects showcasing what I’ve learned:
 
 - **[Recipe Radar](#)**:  
   A Telegram bot that searches for recipes in a database based on the ingredients you have available.
+
+---
+### My Skills 💻  
+Here’s a detailed breakdown of my technical and soft skills:  
+
+#### **Programming Languages**  
+- **Python**, **C**, **C++**, **Java**, **Assembly**  
+- **SQL**: Proficient in relational databases and crafting efficient queries  
+- **JSON**: Data interchange and API communication  
+
+#### **AI & Machine Learning**  
+- Hands-on experience with **Hugging Face**, **LangChain**, and **OpenAI tools**  
+- Expertise in **Natural Language Processing (NLP)**
+
+#### **Database Management**  
+- Design and management of **relational databases** (e.g., MySQL)  
+- Writing complex queries, managing large datasets, and ensuring data integrity  
+
+#### **Version Control & Networking**  
+- Proficient with **Git** for version control and collaboration  
+- Understanding of **networking principles** and system communication  
+
+#### **Software Tools**  
+- **Microsoft 365 Suite**: Excel, Word, PowerPoint  
+- **Development Tools**: VS Code, Processing, Unreal Engine, Blender
+
+#### **Additional Skills**  
+- Strong problem-solving mindset for complex technical challenges  
+- Effective team collaboration and project management  
 
 ---
 
