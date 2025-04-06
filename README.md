@@ -29,7 +29,10 @@ Here are some of my recent projects showcasing what I’ve learned:
 
 - **[IADataQuery 📊](https://github.com/saintslisi/AIDataQuery)**:  
   AIDataQuery is an innovative program powered by GPT-4, designed to streamline interaction with MySQL databases. With a simple user input, the program generates and executes MySQL queries on a generic database and returns the query results in a refined and user-friendly format.
-
+  
+- **[WFVS HGA 📊](https://github.com/saintslisi/WFVS_HGA)**:
+  A Hybrid Genetic Algorithm that integrates local search (Hill Climbing with Best Improvement), one-point crossover, and K-tournament selection to solve the Weighted Feedback Vertex Set problem in graphs.
+  
 - **[Recipe Radar](#)**:  
   A Telegram bot that searches for recipes in a database based on the ingredients you have available.
 
