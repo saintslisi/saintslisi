@@ -9,10 +9,13 @@
 🎓 I'm a student passionate about technology and innovation, with a strong interest in **Artificial Intelligence (AI)** and its main applications: **Natural Language Processing (NLP)** and **Machine Learning (ML)**.  
 💡 I approach complex problems with enthusiasm, designing practical and, when possible, innovative solutions.
 
-🌱 **This semester, I am studying:**  
-- **Internet of Things (IoT)**: Design and development of interconnected systems and sensors.  
-- **Artificial Intelligence (AI)**: Machine learning, neural networks, and optimization algorithms.  
-- **Natural Language Processing (NLP)**: Understanding and processing natural language.  
+🌱 **This semester, I am studying:**
+
+- **Internet of Things (IoT)**: Design and development of interconnected systems and sensors for smart environments and applications.
+- **Artificial Intelligence (AI)**: Concepts of machine learning, neural networks, and optimization algorithms to build intelligent systems.
+- **Natural Language Processing (NLP)**: Understanding and processing human language using Transformer architectures such as GPT and BERT.
+- **Machine Learning (ML)**: Foundations of supervised and unsupervised learning, model evaluation, and real-world applications.
+
 
 🔍 Always eager to explore new technologies and discover how to apply them to real-world challenges.
 
