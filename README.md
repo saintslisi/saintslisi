@@ -37,18 +37,40 @@ Here are some of my recent projects showcasing what I’ve learned:
   A Telegram bot that searches for recipes in a database based on the ingredients you have available.
 
 ---
+
 ### My Skills 💻  
 Here’s a detailed breakdown of my technical and soft skills:  
 
 #### **Programming Languages**  
-- **Python**, **C**, **C++**, **Java**, **Assembly**  
+- **C**, **C++**, **Java**, **Assembly**, **Python**,   
 - **SQL**: Proficient in relational databases and crafting efficient queries  
 - **JSON**: Data interchange and API communication  
+
+<details>
+<summary>📚 <strong>Python Libraries I’ve Learned to Use</strong></summary>
+
+Throughout my projects and studies, I’ve gained hands-on experience with the following Python libraries and frameworks:
+
+- **Data Handling & Analysis**:  
+  `numpy`, `pandas`, `SQL`
+
+- **Machine Learning & Deep Learning**:  
+  `scikit-learn`, `torch (PyTorch)`, `tensorflow`, `transformers`, `openai`
+
+- **Audio & Music Processing**:  
+  `librosa`, `spotipy`
+
+- **Web & API Interaction**:  
+  `requests`, `python-telegram-bot` (or the official Telegram library)
+
+These libraries have been fundamental in building projects involving data processing, AI, NLP, music analysis, and automation.
+
+</details>
 
 #### **AI & Machine Learning**  
 - Hands-on experience with **Hugging Face**, **LangChain**, and **OpenAI tools**  
 - Expertise in **Natural Language Processing (NLP)**
-
+  
 #### **Database Management**  
 - Design and management of **relational databases** (e.g., MySQL)  
 - Writing complex queries, managing large datasets, and ensuring data integrity  
@@ -60,10 +82,12 @@ Here’s a detailed breakdown of my technical and soft skills:
 #### **Software Tools**  
 - **Microsoft 365 Suite**: Excel, Word, PowerPoint  
 - **Development Tools**: VS Code, Processing, Unreal Engine, Blender
+- **Notebooks**: *Jupyter* and *Colab* for interactive prototyping, analysis, and experimentation.
 
 #### **Additional Skills**  
 - Strong problem-solving mindset for complex technical challenges  
-- Effective team collaboration and project management  
+- Effective team collaboration and project management
+  
 
 ---
 
