@@ -14,7 +14,7 @@
 - **Internet of Things (IoT)**: Design and development of interconnected systems and sensors for smart environments and applications.
 - **Artificial Intelligence (AI)**: Concepts of machine learning, neural networks, and optimization algorithms to build intelligent systems.
 - **Natural Language Processing (NLP)**: Understanding and processing human language using Transformer architectures such as GPT and BERT.
-- **Machine Learning (ML)**: Foundations of supervised and unsupervised learning, model evaluation, and real-world applications.
+- **Machine Learning (ML)**: Foundations of supervised learning, model evaluation, and real-world applications.
 
 
 🔍 Always eager to explore new technologies and discover how to apply them to real-world challenges.
