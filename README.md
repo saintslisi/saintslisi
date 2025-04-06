@@ -16,6 +16,13 @@
 - **Natural Language Processing (NLP)**: Understanding and processing human language using Transformer architectures such as GPT and BERT.
 - **Machine Learning (ML)**: Foundations of supervised learning, model evaluation, and real-world applications.
 
+🔮 **Next Skills to Learn**
+
+As I continue to expand my knowledge and expertise, my focus will be on the following areas:
+
+- **Azure**: Deepening my understanding of Microsoft Azure, its cloud services, and building scalable solutions in the cloud.
+- **Graph Databases**: Learning about graph database systems, such as Neo4j, and exploring their applications in data modeling and analysis.
+
 
 🔍 Always eager to explore new technologies and discover how to apply them to real-world challenges.
 
