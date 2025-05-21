@@ -21,8 +21,7 @@
 As I continue to expand my knowledge and expertise, my focus will be on the following areas:
 
 - **Azure**: Deepening my understanding of Microsoft Azure, its cloud services, and building scalable solutions in the cloud.
-- **Graph Databases**: Learning about graph database systems, such as Neo4j, and exploring their applications in data modeling and analysis.
-
+- **Graph Databases**: Learning about graph database systems, such as **GraphDB & SPARQL**, and exploring their applications in data modeling and analysis.
 
 🔍 Always eager to explore new technologies and discover how to apply them to real-world challenges.
 
