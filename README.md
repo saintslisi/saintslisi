@@ -6,7 +6,7 @@
 ---
 
 ### About Me  
-🎓 I'm a student passionate about technology and innovation, with a strong interest in **Artificial Intelligence (AI)** and its main applications: **Natural Language Processing (NLP)** and **Machine Learning (ML)**.  
+🎓 I'm a student passionate about technology and innovation, with a strong interest in **Artificial Intelligence (AI)** and its main applications: **Natural Language Processing (NLP)** and **Machine Learning (ML)**. New Debian user.
 💡 I approach complex problems with enthusiasm, designing practical and, when possible, innovative solutions.
 
 🌱 **This semester, I am studying:**
@@ -22,6 +22,7 @@ As I continue to expand my knowledge and expertise, my focus will be on the foll
 
 - **Azure**: Deepening my understanding of Microsoft Azure, its cloud services, and building scalable solutions in the cloud.
 - **Graph Databases**: Learning about graph database systems, such as **GraphDB & SPARQL**, and exploring their applications in data modeling and analysis.
+- **Anaconda**: Implementing Conda in my future project management.
 
 🔍 Always eager to explore new technologies and discover how to apply them to real-world challenges.
 
